@@ -4,6 +4,7 @@ TileWidth: 32
 TileHeight: 32
 Tiles:
    - 
+      # 0
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -11,6 +12,7 @@ Tiles:
             X: 0
             Y: 0
    - 
+      # 1
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -18,6 +20,7 @@ Tiles:
             X: 1
             Y: 0
    - 
+      # 2
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -25,6 +28,7 @@ Tiles:
             X: 2
             Y: 0
    - 
+      # 3
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -32,6 +36,7 @@ Tiles:
             X: 0
             Y: 1
    - 
+      # 4
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -39,6 +44,7 @@ Tiles:
             X: 1
             Y: 1
    - 
+      # 5
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -46,6 +52,7 @@ Tiles:
             X: 2
             Y: 1
    - 
+      # 6
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -53,6 +60,7 @@ Tiles:
             X: 0
             Y: 2
    - 
+      # 7
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -60,6 +68,7 @@ Tiles:
             X: 1
             Y: 2
    - 
+      # 8
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -67,6 +76,7 @@ Tiles:
             X: 2
             Y: 2
    - 
+      # 9
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -74,6 +84,7 @@ Tiles:
             X: 0
             Y: 3
    - 
+      # 10
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -81,6 +92,7 @@ Tiles:
             X: 1
             Y: 3
    - 
+      # 11
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -88,6 +100,7 @@ Tiles:
             X: 2
             Y: 3
    - 
+      # 0
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -95,6 +108,7 @@ Tiles:
             X: 0
             Y: 4
    - 
+      # 0
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -102,6 +116,7 @@ Tiles:
             X: 1
             Y: 4
    - 
+      # 0
       Name: "Grass"
       Resistance: 0
       Frames:
@@ -109,6 +124,7 @@ Tiles:
             X: 2
             Y: 4
    - 
+      # 0
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -116,6 +132,7 @@ Tiles:
             X: 0
             Y: 5
    - 
+      # 0
       Name: "Dirt"
       Resistance: 0
       Frames:
@@ -123,6 +140,7 @@ Tiles:
             X: 1
             Y: 5
    - 
+      # 0
       Name: "Dirt"
       Resistance: 0
       Frames:
