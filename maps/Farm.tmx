@@ -2,14 +2,22 @@
 <map version="1.0" orientation="orthogonal" width="100" height="90" tilewidth="32" tileheight="32">
  <tileset firstgid="1" source="../tilesets/plowed_soil.tsx"/>
  <tileset firstgid="19" source="../tilesets/tallgrass.tsx"/>
- <layer name="Tile Layer L" width="100" height="90">
+ <tileset firstgid="37" name="fence" tilewidth="32" tileheight="32">
+  <image source="../assets/submission_daneeklu/tilesets/fence.png" width="96" height="192"/>
+ </tileset>
+ <layer name="L" width="100" height="90">
   <data encoding="base64" compression="zlib">
    eJztw0ENAAAMA6GTUP9qZ2MPSFg1VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVfXFA8fUMp8=
   </data>
  </layer>
- <layer name="Tile Layer H" width="100" height="90">
+ <layer name="M" width="100" height="90">
   <data encoding="base64" compression="zlib">
-   eJzt1TEKgDAQRcE9hKKIEQXvf0a1VGObBJwP0y88SFJEJAAAiutOa0bfwG1/tER+cwO3/ZEebXn22PWo5vo7tshPj/K+3io96vfY4z496vZ4To/yhtP0YWzgPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3g7vhfeL
+   eJzt18EKgkAUQNH5iKKIDAv//xtTaCU6zugYb3EOPNpki7npwy6l1P1pXuN8Ejn/aqFHGT1i0SMWPWLRI5bSs7yM0y/MteI39NhWc5ZLnpW/oUeeHrHs7TH8PvVoq3R3vFeu16OtI8+qiR5t1fYYZtfr0Zb7I5aSc7yN81iZ++y7a+8p00w7SI+80v927T2QG9ad1YN99IhFj1iOnP3S7razjzlrd7OPZ1MsesTSHxi7or2td7eSAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC5L6BMRfM=
+  </data>
+ </layer>
+ <layer name="H" width="100" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBcDjKAAAQ==
   </data>
  </layer>
 </map>
