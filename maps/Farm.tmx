@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="90" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="../tilesets/plowed_soil.tsx"/>
+ <tileset firstgid="19" source="../tilesets/tallgrass.tsx"/>
+ <layer name="Tile Layer L" width="100" height="90">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6GTUP9qZ2MPSFg1VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVfXFA8fUMp8=
+  </data>
+ </layer>
+ <layer name="Tile Layer H" width="100" height="90">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEKgDAQRcE9hKKIEQXvf0a1VGObBJwP0y88SFJEJAAAiutOa0bfwG1/tER+cwO3/ZEebXn22PWo5vo7tshPj/K+3io96vfY4z496vZ4To/yhtP0YWzgPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3g7vhfeL
+  </data>
+ </layer>
+</map>
